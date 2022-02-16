@@ -1,4 +1,4 @@
-# permata
+# Permata
 
 A new Flutter project.
 

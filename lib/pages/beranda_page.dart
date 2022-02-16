@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:permata/theme.dart';
 
-import 'package:url_launcher/url_launcher.dart';
-
 class BerandaPage extends StatelessWidget {
   const BerandaPage({Key? key}) : super(key: key);
 

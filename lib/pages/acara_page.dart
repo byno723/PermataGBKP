@@ -63,14 +63,6 @@ class AcaraPage extends StatelessWidget {
         eventDoneColor: Colors.green,
         selectedColor: Colors.pink,
         todayColor: Colors.blue,
-        // dayBuilder: (BuildContext context, DateTime day) {
-        //   return new Text("!");
-        // },
-        // eventListBuilder: (BuildContext context,
-        //     List<NeatCleanCalendarEvent> _selectesdEvents) {
-        //   return new Text("tess");
-        // },
-
         eventColor: Colors.grey,
         locale: 'ind_DE',
         todayButtonText: 'Hari Ini',
